@@ -1,4 +1,5 @@
-**Sahyun Hwang**
+
+#### Sahyun Hwang
 
 <sub>Statistics & Software Engineering @ Ewha Womans University</sub>  
 <sub>Undergraduate Researcher @ [SWEETS Lab](https://sweets.ewha.ac.kr/)</sub>
